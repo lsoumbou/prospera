@@ -26,6 +26,16 @@
   --z-fixed: 100;
 }
 
+
+.laurent{
+  color: crimson;
+}
+
+.laurent:hover{
+  color: green;
+}
+
+
 @media screen and (min-width: 968px) {
   :root {
     --big-font-size: 3.5rem;
